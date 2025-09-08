@@ -55,4 +55,4 @@ int main()
 
 
 ## Result:
-
+Hence the program is executed successfully.
