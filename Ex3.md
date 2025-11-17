@@ -37,6 +37,7 @@ End
 
 
 ## Program:
+```
 #include <iostream>
 using namespace std;
 class Factorial{
@@ -60,7 +61,7 @@ int main()
     f.fact(v);
     return 0;
 }
-
+```
 
 ## Output:
 <img width="1329" height="269" alt="image" src="https://github.com/user-attachments/assets/88aacce6-1aa3-489d-9743-08418cf26485" />
