@@ -39,6 +39,7 @@ End
 
 
 ## Program:
+```
 #include<iostream>
 using namespace std;
 int compute(int m1, int m2, int m3){ 
@@ -56,7 +57,7 @@ float percentage(float avg){
     float perc= percentage(tot);  
     cout<<"Percentage="<<perc;
 }
-
+```
 
 ## Output:
 <img width="1357" height="215" alt="image" src="https://github.com/user-attachments/assets/71362a75-8266-4310-a5ab-2a2c71319d46" />
