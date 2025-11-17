@@ -34,7 +34,7 @@ End
 
 
 ## Program:
-
+```
 #include<iostream>
 using namespace std;
 class Arithmetic{
@@ -57,6 +57,7 @@ int main()
     a.Add(b1,b2,b3);
     return 0;
 }
+```
 
 ## Output:
 
