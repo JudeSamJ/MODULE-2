@@ -29,6 +29,7 @@ End
 
 
 ## Program:
+```
 #include <iostream>
 using namespace std; 
 class var_space
@@ -47,6 +48,7 @@ int main()
    s.allocateSpace();
    return 0;
 }
+```
 
 
 ## Output:
